@@ -1,3 +1,5 @@
+//OK. O.Aktunc
+
 //Javier Reyna EG1305A 02/05/2015
 
 import javax.swing.JOptionPane;
